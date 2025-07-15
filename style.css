@@ -21,3 +21,9 @@ footer{
     color: #fff;
     padding: 15px;
 }
+
+a{
+    color: #04E762;
+} a:hover{
+    color: #03B84E;
+}
