@@ -6,6 +6,9 @@ body{
 }
 
 header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     color: #fff;
     background-color: #BF211E;
     padding: 15px;
