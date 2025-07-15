@@ -22,8 +22,14 @@ footer{
     padding: 15px;
 }
 
+section a{
+    color: #0081AF;
+} section a:hover{
+    color: #00678C;
+}
+
 footer a{
     color: #04E762;
-} a:hover{
+} footer a:hover{
     color: #03B84E;
 }
